@@ -36,6 +36,7 @@ Use it here for free: https://whatdreamscost.github.io/Spline-Path-Control/
 * **6/22/25 动画与导出优化:**
     * **动画时间轴：** 在 [`index.html`](index.html) 中添加了新的时间轴 UI 组件，带有播放、帧导航和缩放控件。实现了管理时间轴状态和渲染的 JavaScript 逻辑。
     * **视频导出优化：** 通过增加比特率提高了视频导出质量，并重构了 [`drawExportFrame()`](sketch.js:refactor.drawExportFrame) 以支持动画内容和背景渲染。
+![update_6-22-25.png](update0622.png)
 
 * **6/21/25 V2 Update:**
     * Added Dark Mode!
